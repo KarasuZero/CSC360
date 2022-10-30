@@ -1,0 +1,15 @@
+C:\Users\kento\RiderProjects\CSC360\FileWriter\bin\Debug\net6.0\FileWriter.exe
+C:\Users\kento\RiderProjects\CSC360\FileWriter\bin\Debug\net6.0\FileWriter.deps.json
+C:\Users\kento\RiderProjects\CSC360\FileWriter\bin\Debug\net6.0\FileWriter.runtimeconfig.json
+C:\Users\kento\RiderProjects\CSC360\FileWriter\bin\Debug\net6.0\FileWriter.dll
+C:\Users\kento\RiderProjects\CSC360\FileWriter\bin\Debug\net6.0\FileWriter.pdb
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.AssemblyInfoInputs.cache
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.AssemblyInfo.cs
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.dll
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\refint\FileWriter.dll
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.pdb
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\FileWriter.genruntimeconfig.cache
+C:\Users\kento\RiderProjects\CSC360\FileWriter\obj\Debug\net6.0\ref\FileWriter.dll

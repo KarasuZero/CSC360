@@ -1,0 +1,15 @@
+C:\Users\kento\RiderProjects\CSC360\FileWR\bin\Debug\net6.0\FileWR.exe
+C:\Users\kento\RiderProjects\CSC360\FileWR\bin\Debug\net6.0\FileWR.deps.json
+C:\Users\kento\RiderProjects\CSC360\FileWR\bin\Debug\net6.0\FileWR.runtimeconfig.json
+C:\Users\kento\RiderProjects\CSC360\FileWR\bin\Debug\net6.0\FileWR.dll
+C:\Users\kento\RiderProjects\CSC360\FileWR\bin\Debug\net6.0\FileWR.pdb
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.AssemblyInfoInputs.cache
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.AssemblyInfo.cs
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.dll
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\refint\FileWR.dll
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.pdb
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\FileWR.genruntimeconfig.cache
+C:\Users\kento\RiderProjects\CSC360\FileWR\obj\Debug\net6.0\ref\FileWR.dll

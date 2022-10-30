@@ -1,0 +1,15 @@
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.AssemblyInfoInputs.cache
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.AssemblyInfo.cs
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\bin\Debug\net6.0\DecoPattern.exe
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\bin\Debug\net6.0\DecoPattern.deps.json
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\bin\Debug\net6.0\DecoPattern.runtimeconfig.json
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\bin\Debug\net6.0\DecoPattern.dll
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\bin\Debug\net6.0\DecoPattern.pdb
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.dll
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\refint\DecoPattern.dll
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.pdb
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\DecoPattern.genruntimeconfig.cache
+C:\Users\kento\RiderProjects\CSC360\DecoPattern\obj\Debug\net6.0\ref\DecoPattern.dll
