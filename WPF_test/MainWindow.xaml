@@ -6,43 +6,44 @@
         xmlns:local="clr-namespace:WPF_test"
         mc:Ignorable="d"
         
-        Title="WPF_Test_Window" Height="550" Width="750">
+        Title="WPF_Test_Window" Height="500" Width="750">
     
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="10"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="50"/>
-            <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="10"/> <!-- Left Margin index 0 -->
+            <ColumnDefinition Width="50"/> <!-- Column 1 index 1 -->
+            <ColumnDefinition Width="50"/> <!-- Column 2 index 2 -->
+            <ColumnDefinition Width="50"/> <!-- Column 3 index 3 -->
+            <ColumnDefinition Width="50"/> <!-- Column 4 index 4 -->
+            <ColumnDefinition Width="50"/> <!-- Column 5 index 5 -->
+            <ColumnDefinition Width="50"/> <!-- Column 6 index 6 -->
+            <ColumnDefinition Width="50"/> <!-- Column 7 index 7 -->
+            <ColumnDefinition Width="50"/> <!-- Column 8 index 8 -->
+            <ColumnDefinition Width="50"/> <!-- Column 9 index 9 -->
+            <ColumnDefinition Width="auto"/> <!-- Column Bt index 10 -->
+            <ColumnDefinition Width="10"/> <!-- Right Margin index 11 -->
         </Grid.ColumnDefinitions>
         
         <Grid.RowDefinitions>
-            <RowDefinition Height="10" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="50" />
-            <RowDefinition Height="auto" />
-            <RowDefinition Height="10" />
+            <RowDefinition Height="10" /> <!-- top Margin index 0 -->
+            <RowDefinition Height="50" /> <!-- Column 1 index 1 -->
+            <RowDefinition Height="50" /> <!-- Column 2 index 2 -->
+            <RowDefinition Height="50" /> <!-- Column 3 index 3 -->
+            <RowDefinition Height="50" /> <!-- Column 4 index 4 -->
+            <RowDefinition Height="50" /> <!-- Column 5 index 5 -->
+            <RowDefinition Height="50" /> <!-- Column 6 index 6 -->
+            <RowDefinition Height="50" /> <!-- Column 7 index 7 -->
+            <RowDefinition Height="50" /> <!-- Column 8 index 8 -->
+            <RowDefinition Height="50" /> <!-- Column 9 index 9 -->
+            <RowDefinition Height="auto" /> <!-- Column TB index 10 -->
+            <RowDefinition Height="10" /> <!-- bottom Margin index 11 -->
         </Grid.RowDefinitions>
         
         <!-- image filed -->
         <Image Grid.Column="5" Grid.Row="5" x:Name="TheImage" Source="C:\Users\kento\RiderProjects\CSC360\anyatestmeme.png" Height="50" Width="50" />
         <Image Grid.Column="9" Grid.Row="9" x:Name="image2" Source="C:\Users\kento\RiderProjects\CSC360\anyatestmeme.png" Height="50" Width="50" />
         
+        <!-- button filed -->
         <Button Grid.Column="1" Grid.Row="10" x:Name="BtUp" Height="20" Width="40" Content="Up" Click="BtUp_OnClick"/>
         <Button Grid.Column="2" Grid.Row="10" x:Name="BtDown" Height="20" Width="40" Content="Down" Click="BtDown_OnClick"/>
         <Button Grid.Column="3" Grid.Row="10" x:Name="BtLeft" Height="20" Width="40" Content="Left" Click="BtLeft_OnClick"/>
@@ -50,6 +51,7 @@
         <Button Grid.Column="5" Grid.Row="10" x:Name="BtChange" Height="20" Width="45" Content="Change" Click="BtBG_OnClick"/>
         <Button Grid.Column="6" Grid.Row="10" x:Name="BtReturn" Height="20" Width="40" Content="Return" Click="BtRe_OnClick"/>
         
+        <!-- TextBlock filed -->
         <TextBlock Grid.Column="10" Grid.Row="1" x:Name="OutPutTB"></TextBlock>
 
     </Grid>
