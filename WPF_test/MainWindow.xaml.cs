@@ -18,7 +18,7 @@ namespace WPF_test
         }
 
         private Stack _commandStack = new Stack();
-  
+        
         private string GetContent(Stack stack)
         {
             string output = "";
