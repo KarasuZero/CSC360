@@ -1,0 +1,7 @@
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\kento\RiderProjects\CSC360\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,7 @@
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\obj\Debug\CompositeAndIterator.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\obj\Debug\CompositeAndIterator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\obj\Debug\CompositeAndIterator.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\bin\Debug\CompositeAndIterator.exe
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\bin\Debug\CompositeAndIterator.pdb
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\obj\Debug\CompositeAndIterator.exe
+C:\Users\kento\RiderProjects\CSC360\CompositeAndIterator\obj\Debug\CompositeAndIterator.pdb

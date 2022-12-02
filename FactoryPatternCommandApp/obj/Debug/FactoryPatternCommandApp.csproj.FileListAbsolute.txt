@@ -1,0 +1,7 @@
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\bin\Debug\FactoryPatternCommandApp.exe
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\bin\Debug\FactoryPatternCommandApp.pdb
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\obj\Debug\FactoryPatternCommandApp.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\obj\Debug\FactoryPatternCommandApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\obj\Debug\FactoryPatternCommandApp.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\obj\Debug\FactoryPatternCommandApp.exe
+C:\Users\kento\RiderProjects\CSC360\FactoryPatternCommandApp\obj\Debug\FactoryPatternCommandApp.pdb

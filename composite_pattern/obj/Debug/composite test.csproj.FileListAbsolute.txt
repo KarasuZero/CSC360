@@ -1,0 +1,7 @@
+C:\Users\kento\RiderProjects\CSC360\composite test\bin\Debug\composite_test.exe
+C:\Users\kento\RiderProjects\CSC360\composite test\bin\Debug\composite_test.pdb
+C:\Users\kento\RiderProjects\CSC360\composite test\obj\Debug\composite test.csproj.AssemblyReference.cache
+C:\Users\kento\RiderProjects\CSC360\composite test\obj\Debug\composite test.csproj.SuggestedBindingRedirects.cache
+C:\Users\kento\RiderProjects\CSC360\composite test\obj\Debug\composite test.csproj.CoreCompileInputs.cache
+C:\Users\kento\RiderProjects\CSC360\composite test\obj\Debug\composite_test.exe
+C:\Users\kento\RiderProjects\CSC360\composite test\obj\Debug\composite_test.pdb

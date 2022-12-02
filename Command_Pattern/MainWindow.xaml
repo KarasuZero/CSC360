@@ -52,6 +52,7 @@
         
         <!-- TextBlock filed -->
         <TextBlock Grid.Column="10" Grid.Row="1" x:Name="OutPutTB"></TextBlock>
+        <!-- <TextBlock Text="test"></TextBlock> -->
 
     </Grid>
     
