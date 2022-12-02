@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using AbstractFactory.Components.HTMLComponents;
 using AbstractFactory.Interfaces;
@@ -17,7 +18,7 @@ namespace AbstractFactory.Components.Factories
             
             _output.Add(text.GetText());
             
-            Console.WriteLine("HTML Text added: " + text.GetText() + "\n");
+            Console.WriteLine("\nHTML Text added: " + text.GetText() + "\n");
         }
 
         public override void AddButton(string name,string text, string onClick)
@@ -26,7 +27,7 @@ namespace AbstractFactory.Components.Factories
             
             _output.Add(button.GetButton());
             
-            Console.WriteLine("HTML Button added: " + button.GetButton() + "\n");
+            Console.WriteLine("\nHTML Button added: " + button.GetButton() + "\n");
         }
         
         public override void CreateOutput()
@@ -40,7 +41,7 @@ namespace AbstractFactory.Components.Factories
             }
             Console.WriteLine("\n\n");
             
-            string fpath = @"C:\Users\kento\Desktop\outputFolder\HTMLOutput.html";
+            string fpath = @"C:\Users\kento\Desktop\OutputFolder\HTMLOutput.html";
             StreamWriter writer = new StreamWriter(fpath);
             foreach (var line in _output)
             {
@@ -48,7 +49,14 @@ namespace AbstractFactory.Components.Factories
             }
             writer.Close();
             
-            Console.WriteLine("HTML Output saved to HTMLOutput.html");
+            Console.WriteLine("HTML Output saved to HTMLOutput.html\n");
+            Console.WriteLine("Opening html file......");
+            var p = new Process();
+            p.StartInfo = new ProcessStartInfo(fpath)
+            {
+                UseShellExecute = true
+            };
+            p.Start();
         }
     }
 }

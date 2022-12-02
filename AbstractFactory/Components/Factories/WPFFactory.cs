@@ -45,7 +45,7 @@ namespace AbstractFactory.Components.Factories
             }
             Console.WriteLine("\n\n");
             
-            string fpath = @"C:\Users\kento\Desktop\outputFolder\WPFOutput.xaml";
+            string fpath = @"C:\Users\kento\Desktop\OutputFolder\WPFOutput.xaml";
             StreamWriter writer = new StreamWriter(fpath);
             foreach (var line in _output)
             {

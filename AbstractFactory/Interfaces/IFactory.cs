@@ -7,7 +7,6 @@ namespace AbstractFactory.Interfaces
     {
         public abstract void AddText(string text);
         public abstract void AddButton(string name, string text, string onclick);
-        
         public abstract void CreateOutput();
     }
 }
